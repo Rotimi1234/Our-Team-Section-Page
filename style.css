@@ -89,7 +89,20 @@ body
 {
    color: #0196e3;
 }
-
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color:black;
+  }
+  footer:hover {
+    text-align: center;
+    padding: 3px;
+    background-color:#1714dc;
+  }
+  footer a{
+  text-decoration: none;
+  color: white;
+  }
 
 
 
